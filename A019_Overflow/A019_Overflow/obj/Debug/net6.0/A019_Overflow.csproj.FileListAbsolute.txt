@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\bin\Debug\net6.0\A019_Overflow.exe
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\bin\Debug\net6.0\A019_Overflow.deps.json
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\bin\Debug\net6.0\A019_Overflow.runtimeconfig.json
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\bin\Debug\net6.0\A019_Overflow.dll
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\bin\Debug\net6.0\A019_Overflow.pdb
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.AssemblyInfo.cs
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.dll
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\refint\A019_Overflow.dll
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.pdb
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\A019_Overflow.genruntimeconfig.cache
+E:\AISW\CSharp\A019_Overflow\A019_Overflow\obj\Debug\net6.0\ref\A019_Overflow.dll

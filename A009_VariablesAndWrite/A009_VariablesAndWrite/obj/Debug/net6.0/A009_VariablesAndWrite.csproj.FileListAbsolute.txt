@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.AssemblyInfo.cs
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\net6.0\A009_VariablesAndWrite.exe
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\net6.0\A009_VariablesAndWrite.deps.json
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\net6.0\A009_VariablesAndWrite.runtimeconfig.json
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\net6.0\A009_VariablesAndWrite.dll
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\net6.0\A009_VariablesAndWrite.pdb
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.dll
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\refint\A009_VariablesAndWrite.dll
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.pdb
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\A009_VariablesAndWrite.genruntimeconfig.cache
+E:\AISW\CSharp\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\net6.0\ref\A009_VariablesAndWrite.dll

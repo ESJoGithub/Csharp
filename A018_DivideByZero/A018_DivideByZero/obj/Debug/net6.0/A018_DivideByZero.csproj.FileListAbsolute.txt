@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\bin\Debug\net6.0\A018_DivideByZero.exe
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\bin\Debug\net6.0\A018_DivideByZero.deps.json
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\bin\Debug\net6.0\A018_DivideByZero.runtimeconfig.json
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\bin\Debug\net6.0\A018_DivideByZero.dll
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\bin\Debug\net6.0\A018_DivideByZero.pdb
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.AssemblyInfo.cs
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.dll
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\refint\A018_DivideByZero.dll
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.pdb
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\A018_DivideByZero.genruntimeconfig.cache
+E:\AISW\CSharp\A018_DivideByZero\A018_DivideByZero\obj\Debug\net6.0\ref\A018_DivideByZero.dll

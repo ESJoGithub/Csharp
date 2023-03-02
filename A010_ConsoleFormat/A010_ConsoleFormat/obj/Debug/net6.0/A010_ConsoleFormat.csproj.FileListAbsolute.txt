@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\net6.0\A010_ConsoleFormat.exe
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\net6.0\A010_ConsoleFormat.deps.json
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\net6.0\A010_ConsoleFormat.runtimeconfig.json
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\net6.0\A010_ConsoleFormat.dll
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\net6.0\A010_ConsoleFormat.pdb
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.AssemblyInfo.cs
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.dll
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\refint\A010_ConsoleFormat.dll
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.pdb
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\A010_ConsoleFormat.genruntimeconfig.cache
+E:\AISW\CSharp\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\net6.0\ref\A010_ConsoleFormat.dll

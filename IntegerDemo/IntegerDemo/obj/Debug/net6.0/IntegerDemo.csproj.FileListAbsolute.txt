@@ -1,0 +1,15 @@
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\bin\Debug\net6.0\IntegerDemo.exe
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\bin\Debug\net6.0\IntegerDemo.deps.json
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\bin\Debug\net6.0\IntegerDemo.runtimeconfig.json
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\bin\Debug\net6.0\IntegerDemo.dll
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\bin\Debug\net6.0\IntegerDemo.pdb
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.csproj.AssemblyReference.cache
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.AssemblyInfoInputs.cache
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.AssemblyInfo.cs
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.dll
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\refint\IntegerDemo.dll
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.pdb
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\IntegerDemo.genruntimeconfig.cache
+E:\AISW\CSharp\IntegerDemo\IntegerDemo\obj\Debug\net6.0\ref\IntegerDemo.dll

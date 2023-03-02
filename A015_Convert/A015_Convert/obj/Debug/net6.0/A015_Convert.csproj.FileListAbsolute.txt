@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A015_Convert\A015_Convert\bin\Debug\net6.0\A015_Convert.exe
+E:\AISW\CSharp\A015_Convert\A015_Convert\bin\Debug\net6.0\A015_Convert.deps.json
+E:\AISW\CSharp\A015_Convert\A015_Convert\bin\Debug\net6.0\A015_Convert.runtimeconfig.json
+E:\AISW\CSharp\A015_Convert\A015_Convert\bin\Debug\net6.0\A015_Convert.dll
+E:\AISW\CSharp\A015_Convert\A015_Convert\bin\Debug\net6.0\A015_Convert.pdb
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.AssemblyInfo.cs
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.dll
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\refint\A015_Convert.dll
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.pdb
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\A015_Convert.genruntimeconfig.cache
+E:\AISW\CSharp\A015_Convert\A015_Convert\obj\Debug\net6.0\ref\A015_Convert.dll

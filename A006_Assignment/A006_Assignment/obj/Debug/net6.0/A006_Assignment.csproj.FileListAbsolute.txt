@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\bin\Debug\net6.0\A006_Assignment.exe
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\bin\Debug\net6.0\A006_Assignment.deps.json
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\bin\Debug\net6.0\A006_Assignment.runtimeconfig.json
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\bin\Debug\net6.0\A006_Assignment.dll
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\bin\Debug\net6.0\A006_Assignment.pdb
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.AssemblyInfo.cs
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.dll
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\refint\A006_Assignment.dll
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.pdb
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\A006_Assignment.genruntimeconfig.cache
+E:\AISW\CSharp\A006_Assignment\A006_Assignment\obj\Debug\net6.0\ref\A006_Assignment.dll

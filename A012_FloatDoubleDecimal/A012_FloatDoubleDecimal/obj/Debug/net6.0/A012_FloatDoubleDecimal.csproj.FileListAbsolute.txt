@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.AssemblyInfo.cs
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\bin\Debug\net6.0\A012_FloatDoubleDecimal.exe
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\bin\Debug\net6.0\A012_FloatDoubleDecimal.deps.json
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\bin\Debug\net6.0\A012_FloatDoubleDecimal.runtimeconfig.json
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\bin\Debug\net6.0\A012_FloatDoubleDecimal.dll
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\bin\Debug\net6.0\A012_FloatDoubleDecimal.pdb
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.dll
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\refint\A012_FloatDoubleDecimal.dll
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.pdb
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\A012_FloatDoubleDecimal.genruntimeconfig.cache
+E:\AISW\CSharp\A012_FloatDoubleDecimal\A012_FloatDoubleDecimal\obj\Debug\net6.0\ref\A012_FloatDoubleDecimal.dll

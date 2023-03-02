@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A005_string\A005_string\bin\Debug\net6.0\A005_string.exe
+E:\AISW\CSharp\A005_string\A005_string\bin\Debug\net6.0\A005_string.deps.json
+E:\AISW\CSharp\A005_string\A005_string\bin\Debug\net6.0\A005_string.runtimeconfig.json
+E:\AISW\CSharp\A005_string\A005_string\bin\Debug\net6.0\A005_string.dll
+E:\AISW\CSharp\A005_string\A005_string\bin\Debug\net6.0\A005_string.pdb
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.AssemblyInfo.cs
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.dll
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\refint\A005_string.dll
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.pdb
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\A005_string.genruntimeconfig.cache
+E:\AISW\CSharp\A005_string\A005_string\obj\Debug\net6.0\ref\A005_string.dll

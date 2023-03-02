@@ -1,0 +1,15 @@
+E:\AISW\CSharp\A004_Variable\A004_Variable\bin\Debug\net6.0\A004_Variable.exe
+E:\AISW\CSharp\A004_Variable\A004_Variable\bin\Debug\net6.0\A004_Variable.deps.json
+E:\AISW\CSharp\A004_Variable\A004_Variable\bin\Debug\net6.0\A004_Variable.runtimeconfig.json
+E:\AISW\CSharp\A004_Variable\A004_Variable\bin\Debug\net6.0\A004_Variable.dll
+E:\AISW\CSharp\A004_Variable\A004_Variable\bin\Debug\net6.0\A004_Variable.pdb
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.csproj.AssemblyReference.cache
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.AssemblyInfoInputs.cache
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.AssemblyInfo.cs
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.csproj.CoreCompileInputs.cache
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.dll
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\refint\A004_Variable.dll
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.pdb
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\A004_Variable.genruntimeconfig.cache
+E:\AISW\CSharp\A004_Variable\A004_Variable\obj\Debug\net6.0\ref\A004_Variable.dll
